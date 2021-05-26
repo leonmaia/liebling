@@ -17,11 +17,11 @@
     background-color: $black;
 
     @include respond-to('medium') {
-      min-height: 450px;
+      min-height: 630px;
     }
 
     @include respond-to('extra-large') {
-      min-height: 565px;
+      min-height: 791px;
     }
 
     .m-hero-title {
